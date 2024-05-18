@@ -1,0 +1,6 @@
+Invoking command in '/home/mrxiuer/my_bot/build/my_bot': DEBUGINFOD_URLS=https://debuginfod.archlinux.org _=/usr/bin/env /usr/bin/cmake /home/mrxiuer/my_bot -DCMAKE_INSTALL_PREFIX=/home/mrxiuer/my_bot/install/my_bot
+Invoked command in '/home/mrxiuer/my_bot/build/my_bot' returned '0': DEBUGINFOD_URLS=https://debuginfod.archlinux.org _=/usr/bin/env /usr/bin/cmake /home/mrxiuer/my_bot -DCMAKE_INSTALL_PREFIX=/home/mrxiuer/my_bot/install/my_bot
+Invoking command in '/home/mrxiuer/my_bot/build/my_bot': DEBUGINFOD_URLS=https://debuginfod.archlinux.org _=/usr/bin/env /usr/bin/cmake --build /home/mrxiuer/my_bot/build/my_bot -- -j16 -l16
+Invoked command in '/home/mrxiuer/my_bot/build/my_bot' returned '0': DEBUGINFOD_URLS=https://debuginfod.archlinux.org _=/usr/bin/env /usr/bin/cmake --build /home/mrxiuer/my_bot/build/my_bot -- -j16 -l16
+Invoking command in '/home/mrxiuer/my_bot/build/my_bot': DEBUGINFOD_URLS=https://debuginfod.archlinux.org _=/usr/bin/env /usr/bin/cmake --install /home/mrxiuer/my_bot/build/my_bot
+Invoked command in '/home/mrxiuer/my_bot/build/my_bot' returned '0': DEBUGINFOD_URLS=https://debuginfod.archlinux.org _=/usr/bin/env /usr/bin/cmake --install /home/mrxiuer/my_bot/build/my_bot
